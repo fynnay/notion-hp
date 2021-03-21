@@ -9,6 +9,7 @@ export const getSiteForDomain = async (
     name: config.name,
     rootNotionPageId: config.rootNotionPageId,
     rootNotionSpaceId: config.rootNotionSpaceId,
+    fontFamily: config.fontFamily,
     description: config.description
   } as types.Site
 }

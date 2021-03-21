@@ -15,6 +15,7 @@ module.exports = {
   description: 'code & vfx',
   socialImageTitle: 'Fynn Laue',
   socialImageSubtitle: 'code & vfx 💥',
+  fontFamily: 'Lato', // Quicksand | Roboto
 
   // social usernames (optional)
   twitter: '',
