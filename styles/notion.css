@@ -43,6 +43,10 @@
   margin: 0 auto;
 }
 
+/* Hide inline database headers */
+.notion-page-content .notion-collection-header {
+  display: none !important;
+}
 .notion-gallery-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-gap: 3vmin;
