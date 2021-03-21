@@ -35,7 +35,7 @@ export const Footer: React.FC<{
             onClick={toggleDarkModeCb}
             title='Tottle dark mode'
           >
-            {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
+            {isDarkMode ? <IoSunnyOutline /> : <IoMoonSharp />}
           </a>
         </div>
       ) : null}
