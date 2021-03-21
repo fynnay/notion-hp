@@ -179,6 +179,10 @@
   display: none !important;
 }
 
+.notion-collection-row {
+  border-color: var(--bg-color-0);
+}
+
 .notion-collection-row-property .notion-property {
   display: flex;
   justify-content: center;
