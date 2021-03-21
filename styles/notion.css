@@ -47,6 +47,12 @@
 .notion-page-content .notion-collection-header {
   display: none !important;
 }
+
+/* Only show the latest 4 entries of "latest tools" */
+.notion-collection.notion-block-300e30952d134d3ca7bcde7147de43d2 .notion-gallery-view .notion-collection-card:nth-child(n+5) {
+  display: none !important;
+}
+
 .notion-gallery-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-gap: 3vmin;
