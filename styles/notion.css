@@ -47,6 +47,7 @@
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-gap: 3vmin;
   gap: 3vmin;
+  border-top-color: var(--bg-color-0);
 }
 
 .notion-gallery-grid .notion-page-icon {
@@ -123,6 +124,7 @@
 
 .notion-hr {
   margin: 2em 0;
+  border-color: var(--bg-color-0);
 }
 
 @media only screen and (max-width: 920px) {
