@@ -48,8 +48,8 @@
   display: none !important;
 }
 
-/* Only show the latest 4 entries of "latest tools" */
-.notion-collection.notion-block-300e30952d134d3ca7bcde7147de43d2 .notion-gallery-view .notion-collection-card:nth-child(n+5) {
+/* Only show the latest 8 entries of "latest tools" */
+.notion-collection.notion-block-f990e6c4214c412999a52a4a4d14e4d9 .notion-gallery-view .notion-collection-card:nth-child(n+9) {
   display: none !important;
 }
 
