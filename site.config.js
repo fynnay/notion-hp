@@ -49,6 +49,18 @@ module.exports = {
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
   pageUrlOverrides: {
-    '/image-distortion-in-p5js': "0c2c04bb481447c9bf925e42cfc99a2b"
+    '/image-distortion-in-p5js': '0c2c04bb481447c9bf925e42cfc99a2b',
+    '/revlum-v1-0': '2cd9f8f145de48b4bf6e76a114844af4',
+    '/ikrot-gizmo-for-nuke': 'db1d047190ff4bb3a9887fd3e0ab8bce',
+    '/nuke-reconnect-nodes': '0246c578d94846d395145c3bddbd34c5',
+    '/nuke-preferences-manager': '3b8c20657d7e471797e42b8462745345',
+    '/dodge-button': '3c7fdb9af1224f788101caf3be1b09d7',
+    '/syncfontattributes': '54da15f055ec42c3b256587cf2223577',
+    '/neatlog': 'd45416c0bc3241ccb2c2cb67daaa414e',
+    '/ppos-mapping': 'f3d814dcde174ac696e88c102a9cadc5',
+    '/automated-vfx-pipeline': '065fa379b4c34e9fb2c18bbf33dd8398',
+    '/nuke-studio-comp-cleaner': '3086d97aaaa44f1eab5f1faa2569910e',
+    '/deleteviewers': '38629797b30c4a2798ee8abe1b5b059c',
+    '/dr3-bestemmer': '30700e8617094a24a80c962bf2611a81'
   }
 }
