@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'FYNN - code & VFX',
-  domain: 'fynn-notion-hp.vercel.app',
+  domain: 'fynnlaue.com',
   author: 'Fynn Laue',
 
   // open graph metadata (optional)
